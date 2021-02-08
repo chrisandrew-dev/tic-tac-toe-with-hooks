@@ -14,6 +14,8 @@ Classic Tic-tac-toe with time-travel, using modern Javascript syntax and React h
  * Use "npm install" to install dependencies; and
  * Run "npm start" to start the development server at http://localhost:3000.
 
+Note that the development build is not optimized. To create a production build, use "npm run build".
+
 ## Stack
 * HTML
 * Javascript
